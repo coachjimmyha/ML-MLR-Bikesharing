@@ -22,7 +22,7 @@ You are required to model the demand for shared bikes with the available indepen
 cnt =  0.09 + 0.23\*yr - 0.09\*holiday  + 0.57\*temp  - 0.15\*windspeed  + 0.08\*summer  + 0.13\*winter  + 0.09\*mnth_9 - 0.25\*light_snow
 
 ### OLS Regression Results    
-  <img src="https://github.com/coachjimmyha/ML-LinearRegressionAssignment-BikeSharing/blob/master/OLS_Regression_Results.png" alt="Bike Sharing Model" width="500">
+  <img src="https://github.com/coachjimmyha/ML-MLR-Bikesharing/blob/master/OLS_Regression_Results.png" alt="Bike Sharing Model" width="500">
 
 ## Technologies Used
 - warnings
